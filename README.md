@@ -1,4 +1,3 @@
-# Template Site
 Welcome to your CSE 481p repo! 
 
 This repo will serve as a place to both collaborate on code with your group members as well as create your blog sites for your projects. It contains a `_config.yml` file that automatically turns your `README.md` files into webpages hosted on GitHub pages. 
